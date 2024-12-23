@@ -1,6 +1,6 @@
 # R3F Course
 
-Code is available in `src > lecture`
+Code is available in `src > lectures`
 
 ## Important Links
 - https://threejs.org/examples/ - ThreeJS Examples
